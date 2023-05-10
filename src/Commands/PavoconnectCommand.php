@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace aurorawebsoftware\Pavoconnect\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class PavoconnectCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'pavoconnect';
 
     public $description = 'My command';
 
