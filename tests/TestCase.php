@@ -2,9 +2,9 @@
 
 namespace aurorawebsoftware\Pavoconnect\Tests;
 
+use aurorawebsoftware\Pavoconnect\PavoconnectServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use aurorawebsoftware\Pavoconnect\PavoconnectServiceProvider;
 
 class TestCase extends Orchestra
 {

@@ -2,9 +2,9 @@
 
 namespace aurorawebsoftware\Pavoconnect;
 
+use aurorawebsoftware\Pavoconnect\Commands\PavoconnectCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use aurorawebsoftware\Pavoconnect\Commands\PavoconnectCommand;
 
 class PavoconnectServiceProvider extends PackageServiceProvider
 {
